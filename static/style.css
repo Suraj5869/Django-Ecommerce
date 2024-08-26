@@ -1,0 +1,14 @@
+*{
+    font-family: 'Atak', sans-serif;
+}
+    .notice{
+        background-color: rgb(18, 48, 38);
+        color: white;
+        
+    }
+
+nav{
+    position:-webkit-sticky; 
+    top: 0; 
+    z-index: 100;
+}
